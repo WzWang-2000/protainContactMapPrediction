@@ -1,0 +1,2 @@
+Converts absolute coordinates to relative coordinates for each residue
+(L,3)-->(L,L,3)
